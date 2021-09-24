@@ -1,0 +1,15 @@
+{
+  "name": "surpriseapi",
+  "version": "1.0.0",
+  "description": "The purpose of the API is to return a suprising response, according to parameters passed by the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yonatan Nechmad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}

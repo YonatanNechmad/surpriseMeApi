@@ -1,0 +1,28 @@
+#surprise
+
+About this project:
+
+At this project you get a random response according to parameters you have passed.
+The response can be Chuck Norris joke, Kanye West quote or sum of letter of your name.
+In addition you can get the stats of all previous requests.
+
+Instructions:
+
+Make sure Node.js is installed on your computer.
+
+1.Extract the zip file "surpriseApi_YonatanNechmad.zip".
+2.Install NPM packages "npm install".
+3.Run "node index.js".
+
+Now the process is running, you can open any environment(e.g google chrome or explorer) and run your commands.
+
+You can run 2 types of command:
+1- GET api/surprise
+The command must contain a name and date of birth.
+For example: http://localhost:3000/api/surprise?name=Yonatan%20Nechmad&birth_year=1994
+2- GET api/stats
+http://localhost:3000/api/stats
+
+
+# written by Yonatan Nechmad #
+# yonatannec@gmail.com #
