@@ -10,8 +10,8 @@ Instructions:
 
 Make sure Node.js is installed on your computer.
 
-1.Extract the zip file "surpriseApi_YonatanNechmad.zip".
-2.Install NPM packages "npm install".
+1.Download "index.js" and "package.json" to same folder on your computer.
+2.Install NPM packages by open the command-line and run "npm install".
 3.Run "node index.js".
 
 Now the process is running, you can open any environment(e.g google chrome or explorer) and run your commands.
